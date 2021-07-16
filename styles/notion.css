@@ -110,6 +110,7 @@
 .notion-h1,
 .notion-h2,
 .notion-h3 {
+  display: block;
   margin-bottom: 0.25em;
   text-align: center;
 }
